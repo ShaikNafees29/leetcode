@@ -15,7 +15,7 @@ class Solution:
             
             val = 0
             for j in range(i, min(i + 30, n)):
-                val = (val << 1) + int(s[j])
+                val = (val * 2) + int(s[j])
                 if val not in occurences:
                     occurences[val] = [i, j]
         
