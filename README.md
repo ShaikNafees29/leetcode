@@ -6,6 +6,7 @@ Leetcode DSA problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ShaikNafees29/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
@@ -30,4 +31,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
