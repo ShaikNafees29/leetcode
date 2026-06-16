@@ -8,6 +8,7 @@ Leetcode DSA problems
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ShaikNafees29/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShaikNafees29/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -41,6 +42,7 @@ Leetcode DSA problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ShaikNafees29/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShaikNafees29/leetcode/tree/master/1480-running-sum-of-1d-array) |
