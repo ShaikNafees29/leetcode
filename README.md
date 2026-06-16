@@ -15,6 +15,7 @@ Leetcode DSA problems
 | [1732-find-the-highest-altitude](https://github.com/ShaikNafees29/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ShaikNafees29/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaikNafees29/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Leetcode DSA problems
 | [0724-find-pivot-index](https://github.com/ShaikNafees29/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShaikNafees29/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaikNafees29/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/ShaikNafees29/leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Design
 |  |
 | ------- |
