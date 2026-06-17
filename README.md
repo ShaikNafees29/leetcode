@@ -37,11 +37,13 @@ Leetcode DSA problems
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## Two Pointers
 |  |
