@@ -11,6 +11,7 @@ Leetcode DSA problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/ShaikNafees29/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShaikNafees29/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaikNafees29/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -34,6 +35,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## String
 |  |
@@ -43,6 +45,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,4 +59,12 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
