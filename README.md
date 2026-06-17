@@ -6,6 +6,7 @@ Leetcode DSA problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -32,6 +33,7 @@ Leetcode DSA problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## String
 |  |
