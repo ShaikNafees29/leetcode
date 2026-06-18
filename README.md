@@ -7,6 +7,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ShaikNafees29/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -60,6 +61,7 @@ Leetcode DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShaikNafees29/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -110,6 +112,7 @@ Leetcode DSA problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShaikNafees29/leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ShaikNafees29/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ShaikNafees29/leetcode/tree/master/0881-boats-to-save-people) |
