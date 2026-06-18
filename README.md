@@ -15,6 +15,7 @@ Leetcode DSA problems
 | [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/ShaikNafees29/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ShaikNafees29/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ShaikNafees29/leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -41,6 +42,7 @@ Leetcode DSA problems
 | [0128-longest-consecutive-sequence](https://github.com/ShaikNafees29/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
@@ -57,6 +59,7 @@ Leetcode DSA problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -75,11 +78,13 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
