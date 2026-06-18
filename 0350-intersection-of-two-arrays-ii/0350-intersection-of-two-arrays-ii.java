@@ -6,7 +6,7 @@ class Solution {
         }
         ArrayList<Integer> al = new ArrayList<>();
         for(int ele:nums2){
-            if(hm.containsKey(ele) && hm.get(ele)>=1){
+            if(hm.containsKey(ele) && hm.get(ele)>0){
                 al.add(ele);
                 hm.put(ele,hm.get(ele)-1);
             }
