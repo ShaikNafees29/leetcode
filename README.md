@@ -53,6 +53,7 @@ Leetcode DSA problems
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
+| [0925-long-pressed-name](https://github.com/ShaikNafees29/leetcode/tree/master/0925-long-pressed-name) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ Leetcode DSA problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ShaikNafees29/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0925-long-pressed-name](https://github.com/ShaikNafees29/leetcode/tree/master/0925-long-pressed-name) |
 ## Prefix Sum
 |  |
 | ------- |
