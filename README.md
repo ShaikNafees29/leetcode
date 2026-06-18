@@ -48,6 +48,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+| [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## Two Pointers
@@ -56,6 +57,7 @@ Leetcode DSA problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ShaikNafees29/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
