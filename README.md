@@ -9,6 +9,7 @@ Leetcode DSA problems
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ShaikNafees29/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ShaikNafees29/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -35,6 +36,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
@@ -75,4 +77,8 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
