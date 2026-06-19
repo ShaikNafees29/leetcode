@@ -48,12 +48,14 @@ Leetcode DSA problems
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikNafees29/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [2564-substring-xor-queries](https://github.com/ShaikNafees29/leetcode/tree/master/2564-substring-xor-queries) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ShaikNafees29/leetcode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikNafees29/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/ShaikNafees29/leetcode/tree/master/0771-jewels-and-stones) |
 | [0925-long-pressed-name](https://github.com/ShaikNafees29/leetcode/tree/master/0925-long-pressed-name) |
@@ -106,6 +108,7 @@ Leetcode DSA problems
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ShaikNafees29/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikNafees29/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Union-Find
 |  |
