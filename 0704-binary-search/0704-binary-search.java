@@ -2,7 +2,7 @@ class Solution {
     public int search(int[] nums, int target) {
         int f=0,l=nums.length-1;
         while(f<=l){
-            int mid=(f+l)/2;
+            int mid=f+(l-f)/2;
             if(nums[mid]==target){
                 return mid;
             }
