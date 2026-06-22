@@ -96,6 +96,7 @@ Leetcode DSA problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaikNafees29/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShaikNafees29/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -129,4 +130,8 @@ Leetcode DSA problems
 | [0455-assign-cookies](https://github.com/ShaikNafees29/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/ShaikNafees29/leetcode/tree/master/0881-boats-to-save-people) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ShaikNafees29/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
