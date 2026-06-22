@@ -9,6 +9,7 @@ Leetcode DSA problems
 | [0001-two-sum](https://github.com/ShaikNafees29/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ShaikNafees29/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ShaikNafees29/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ShaikNafees29/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShaikNafees29/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ShaikNafees29/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@ Leetcode DSA problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ShaikNafees29/leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/ShaikNafees29/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShaikNafees29/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ShaikNafees29/leetcode/tree/master/0704-binary-search) |
