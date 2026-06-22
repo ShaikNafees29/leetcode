@@ -13,9 +13,6 @@ class Solution {
             else{
                 right = mid-1;
             }
-            // if(left==right){
-            //    return mid;
-            // } 
         }
         return left;
     }
